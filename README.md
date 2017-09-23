@@ -1,7 +1,7 @@
 # mailler-install
 Petit dépôt tout simple pour installer un mailler qui fonctionne facilement sur son serveur. Car on peut perdre souvent du temps pour juste installer un mailer qui fonctionne ;-(
 
-Utilise *ssmtp* permet à des applications d'envoyer des emails via la commande */usr/sbin/sendmail*. Contrairement à postfix, il ne fait que rediriger les emails vers un serveur SMTP externe.<br>
+Utilise *ssmtp*, qui permet à des applications d'envoyer des emails via la commande */usr/sbin/sendmail*. Contrairement à postfix, il ne fait que rediriger les emails vers un serveur SMTP externe.<br>
 
 Utilisation:
 
